@@ -15,7 +15,7 @@ The datasets and Jupyter notebook used in the project is also included in this r
 5. Exploratory Data Analysis (EDA)
 6. EndNote
 
-KINDLY NOTE: This [Jupyter Notebook](https://github.com/addy-analytics/EDA-7-MILLION-GLOBAL-COMPANIES/blob/main/7M%2B%20COMPANY%20DATA.ipynb) contains visualizations in plotly express that could not render well here. Kindly visit this link to enjoy a full experience.
+KINDLY NOTE: This [Jupyter Notebook](https://github.com/addy-analytics/EDA-7M-GLOBAL-COMPANIES/blob/main/7M%2B%20COMPANY-DATA.ipynb) contains visualizations in plotly express that could not render well here. Kindly visit this link to enjoy a full experience.
 
 ## Introduction
 In 2019 the People Data Labs released 7M+ Global Company Dataset. This dataset contains information such as names, domains, sizes, years founded, industries, localities, countries and LinkedIn URLs. The raw data & official survey was downloaded [here](https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset). 
