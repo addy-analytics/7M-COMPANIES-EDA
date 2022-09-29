@@ -24,7 +24,6 @@ This project's objective is to determine from the information gathered:
 3. The Top 5 Industrialized Nations
 4. The Top 5 Global Industries
 5. Workplace Trends
-
 In order to conduct comparable studies, I also narrowed my focus to African countries solely.
 
 ## Methodology
@@ -36,6 +35,11 @@ The libraries used on this project include:
  -   Plotly Visualization Package – For all visualizations (including interactive charts)
  
  ## End Note
+ - KINDLY NOTE: This Jupyter Notebook contains visualizations in plotly express that could not render well here. Kindly visit this [LINK](https://nbviewer.org/gist/addy-analytics/624520651ce2bb6ac089ed2af9979ec5) to enjoy a full experience.
+ 
+ Read Full Documentation Here
+ -
+ -
  
  
 
