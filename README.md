@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of 7+ Million Company Dataset
 
 This is a repository for an Exploratory Data Analysis of over seven (7) million global companies Project. All analysis was done by Jessica Addy.
-The datasets and Jupyter notebook used in the project is also included in this repository. This repository also contains the [Jupyter notebook](https://github.com/addy-analytics/EDA-7M-GLOBAL-COMPANIES/blob/main/7M%2B%20COMPANY-DATA.ipynb) and datasets that were utilized in the research. 
+The datasets and Jupyter notebook used in the project is also included in this repository. This repository also contains the [Jupyter notebook](https://github.com/addy-analytics/EDA-7M-GLOBAL-COMPANIES/blob/main/7M%2B%20COMPANY%20DATA.ipynb) and datasets that were utilized in the research. 
 
 ## Table of Content:
 
