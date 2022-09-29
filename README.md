@@ -37,7 +37,7 @@ The libraries used on this project include:
  ## End Note
  - KINDLY NOTE: This [Jupyter notebook](https://github.com/addy-analytics/EDA-7M-GLOBAL-COMPANIES/blob/main/7M%2B%20COMPANY%20DATA.ipynb) contains visualizations in plotly express that could not render well here. Kindly visit this [LINK](https://nbviewer.org/gist/addy-analytics/624520651ce2bb6ac089ed2af9979ec5) to enjoy a full experience.
  
- Read Full Documentation Here
+ ##### Read Full Documentation Here
  -
  -
  
